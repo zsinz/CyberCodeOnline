@@ -457,7 +457,7 @@
  	 	 	 	"eng": "Quick Slots"
  	 	 	},
  	 	 	"equipped": {
- 	 	 	 	"trans": "Lengkap",
+ 	 	 	 	"trans": "Efek Peralatan",
  	 	 	 	"eng": "Equipped"
  	 	 	}
  	 	},
@@ -701,11 +701,11 @@
  	 	 	 	"eng": "Print Cache"
  	 	 	},
  	 	 	"printCacheDescription": {
- 	 	 	 	"trans": "Ubah cache ini menjadi barang senjata atau peralatan yang Anda bisa uae.",
- 	 	 	 	"eng": "Turn this cache into a weapon or equipment item that you can uae."
+ 	 	 	 	"trans": "Ubah cache ini menjadi barang senjata atau peralatan yang Anda bisa gunakan.",
+ 	 	 	 	"eng": "Turn this cache into a weapon or equipment item that you can use."
  	 	 	},
  	 	 	"openContainer": {
- 	 	 	 	"trans": "Buka kunci wadah",
+ 	 	 	 	"trans": "Buka kunci kontainer",
  	 	 	 	"eng": "Unlock Container"
  	 	 	},
  	 	 	"cantOpenContainerNotIdle": {
@@ -803,7 +803,7 @@
  	 	 	},
  	 	 	"unlockContainerButton": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Buka kunci wadah",
+ 	 	 	 	 	"trans": "Buka kunci kontainer",
  	 	 	 	 	"eng": "Unlock Container"
  	 	 	 	}
  	 	 	},
@@ -1103,7 +1103,7 @@
  	 	 	 	"eng": "Are you sure you want to abort?"
  	 	 	},
  	 	 	"abortWarning": {
- 	 	 	 	"trans": "Dengan menggabungkan ini Anda tidak akan menerima hadiah apapun dan bahan yang digunakan tidak akan dikembalikan",
+ 	 	 	 	"trans": "Dengan membatalkan kegiatan ini Anda tidak akan menerima hadiah apapun dan bahan yang digunakan tidak akan dikembalikan",
  	 	 	 	"eng": "By aborting this you won\\'t receive any reward and the material used won\\'t be returned"
  	 	 	}
  	 	},
@@ -2207,12 +2207,12 @@
  	 	"unlockContainerPage": {
  	 	 	"selectContainerModal": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Pilih kontainer untuk membuka kunci",
+ 	 	 	 	 	"trans": "Pilih Kontainer untuk membuka kunci",
  	 	 	 	 	"eng": "Please select an container to unlock"
  	 	 	 	}
  	 	 	},
  	 	 	"title": {
- 	 	 	 	"trans": "Buka kunci kontainer",
+ 	 	 	 	"trans": "Buka kunci Kontainer",
  	 	 	 	"eng": "Unlock Container"
  	 	 	},
  	 	 	"selectContainer": {
@@ -2221,7 +2221,7 @@
  	 	 	 	 	"eng": "Please select an container to unlock"
  	 	 	 	},
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Wadah",
+ 	 	 	 	 	"trans": "Kontainer",
  	 	 	 	 	"eng": "Container"
  	 	 	 	},
  	 	 	 	"trans": "Pilih kontainer",
@@ -2256,7 +2256,7 @@
  	 	 	 	 	"vars": [
  	 	 	 	 	 	"itemName"
  	 	 	 	 	],
- 	 	 	 	 	"trans": "${itemName} sekarang aktif, buka kunci kontainer legendaris sekarang memiliki peluang tambahan 0,5% untuk peralatan tingkat epik per wadah legendaris",
+ 	 	 	 	 	"trans": "${itemName} sekarang aktif, buka kunci kontainer legendaris sekarang memiliki peluang tambahan 0,5% untuk peralatan tingkat epik per kontainer legendaris",
  	 	 	 	 	"eng": "${itemName} is now active, unlock Legendary Container now to have 0.5% additional chance for EPIC tier equipment per Legendary Container"
  	 	 	 	}
  	 	 	},
@@ -2698,7 +2698,7 @@
  	 	},
  	 	"rngInterferer": {
  	 	 	"description": {
- 	 	 	 	"trans": "Peluang drop epik tambahan dari wadah",
+ 	 	 	 	"trans": "Peluang drop epik tambahan dari kontainer",
  	 	 	 	"eng": "Additional epic drop chance from containers"
  	 	 	}
  	 	},
@@ -4456,7 +4456,7 @@
  	 	 	 	 	"maxStack",
  	 	 	 	 	"time"
  	 	 	 	],
- 	 	 	 	"trans": "SHARD yang berisi eksploitasi muka yang dirancang untuk meningkatkan peluang penurunan acak dari item tingkat tinggi. Mendapat peluang drop tambahan dari item legendaris ($}%) dan epik ($} ($}%) saat membuka kunci wadah legendaris (tidak dapat ditumpuk) untuk ${time} menit. * PENTING: Buff hanya akan berlaku ketika proses pembuka kunci dimulai saat buff aktif *.",
+ 	 	 	 	"trans": "SHARD yang berisi eksploitasi muka yang dirancang untuk meningkatkan peluang penurunan acak dari item tingkat tinggi. Mendapat peluang drop tambahan dari item legendaris ($}%) dan epik ($} ($}%) saat membuka kunci kontainer legendaris (tidak dapat ditumpuk) untuk ${time} menit. * PENTING: Buff hanya akan berlaku ketika proses pembuka kunci dimulai saat buff aktif *.",
  	 	 	 	"eng": "A shard that contains advance exploits designed to increase random drop chance of high tier items. Gains additional drop chance of Legendary (${legendaryChance}%) and Epic (${epicChance}%) items when unlocking Legendary containers (Not stackable) for ${time} minute (Applies to all players). *IMPORTANT: The buff will only apply when the unlocking process is started while the buff is active*."
  	 	 	}
  	 	},
@@ -6293,7 +6293,7 @@
  	 	 	"eng": "Its the spooky time of the year again! Shang-ri-la is celebrating Halloween with a special event!"
  	 	},
  	 	"desc2": {
- 	 	 	"trans": "Musuh dan AI Core Auto Farm akan memiliki kesempatan untuk menjatuhkan Jack-O-Lanterns! Anda dapat menggunakannya untuk membuat wadah legendaris yang terkunci!",
+ 	 	 	"trans": "Musuh dan AI Core Auto Farm akan memiliki kesempatan untuk menjatuhkan Jack-O-Lanterns! Anda dapat menggunakannya untuk membuat kontainer legendaris yang terkunci!",
  	 	 	"eng": "Enemies and AI Core auto farm will have chance to drop Jack-o-lanterns! you can use these to craft Locked Legendary Containers!"
  	 	},
  	 	"desc3": {
@@ -6311,7 +6311,7 @@
  	 	 	"eng": "Free Unit*"
  	 	},
  	 	"desc2": {
- 	 	 	"trans": "Wadah terkunci langka",
+ 	 	 	"trans": "Kontainer terkunci langka",
  	 	 	"eng": "Rare Locked Container"
  	 	},
  	 	"desc3": {
